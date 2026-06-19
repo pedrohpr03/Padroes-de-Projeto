@@ -1,0 +1,21 @@
+# Build Maven
+target/
+
+# IDEs / editores
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.project
+.classpath
+.settings/
+nbproject/
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
